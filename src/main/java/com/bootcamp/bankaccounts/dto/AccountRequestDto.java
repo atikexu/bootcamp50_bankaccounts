@@ -20,6 +20,6 @@ public class AccountRequestDto {
 	private Integer transaction;
 	private Integer operationDay;
 	private LocalDateTime dateAccount;
-	private String NumberAccount;
+	private String numberAccount;
 	private String typeCustomer;
 }

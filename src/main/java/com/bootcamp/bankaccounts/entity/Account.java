@@ -23,11 +23,14 @@ public class Account {
 	private Integer typeAccount;
 	private String descripTypeAccount;
 	private Double amount;
+	private Double startAmount;
 	private Double maintenance;
 	private Integer transaction;
 	private Integer operationDay;
 	private LocalDateTime dateAccount;
-	private String NumberAccount;
+	private String numberAccount;
 	private String typeCustomer;
+	private Double commission;
+	private Integer indTransaction;
 	
 }
